@@ -1,8 +1,6 @@
-# fishfingers.js
+# [fishfingers.js](http://zlsa.github.io/fishfingersjs)
 
 Fishfingers.js is the premier "alert() but with less keystrokes" library for JavaScript.
-
-## Check it out live at http://zlsa.github.io/fishfingersjs
 
 # API
 
