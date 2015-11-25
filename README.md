@@ -1,2 +1,31 @@
 # fishfingersjs
-fishfingers.js is a wrapper around native javascript functions to allow simpler debugging
+
+Fishfingers.js is the premier "alert() but with less keystrokes" library for JavaScript.
+
+# API
+
+`alrt(message)`
+
+Wrapper for `alert(message)`.
+
+_New in version 1.0 alpha 1!_
+
+# Changelog
+
+* 1.0 alpha 1
+  * added `alrt(message)` function to reduce keystrokes.
+  * deprecated `ff.alert(message)`.
+* 0.1
+  * added `ff.alert(message)` function.
+
+# Version
+
+0.1
+
+# License
+
+CC0
+
+# Donations
+
+Please.
